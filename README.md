@@ -1,5 +1,8 @@
 # Formulário de Cadastro de DEVs
 
+![Castro](https://github.com/user-attachments/assets/c15c9d55-853d-430c-8947-724ff1145bf2)
+
+
 Este projeto consiste em um formulário de cadastro para desenvolvedores, criado com o objetivo de praticar e aprimorar habilidades em HTML e CSS.
 
 ## Tecnologias Utilizadas
